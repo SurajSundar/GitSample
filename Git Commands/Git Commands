@@ -7,4 +7,3 @@ To commit changes to the repo => git commit -m "Commit message" / git commit -m 
 To change config info => git config
 To push the changes to git server => git push "root name" "branch name"
 To pull the changes from the git server => git pull "origin" "branch name"
-To remove the file from repo => git rm "file name" / "folder name" / "multiple file names with spaces"
