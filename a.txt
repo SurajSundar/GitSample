@@ -1,0 +1,1865 @@
+(
+        {
+        end = "<null>";
+        id = 8;
+        "is_official" = 1;
+        start = "<null>";
+        title = "Athenas sommar";
+        workouts =         (
+                        {
+                date = "2014-04-01";
+                exercises =                 (
+                                        {
+                        description = "Marklyft, med raka ben";
+                        id = 23;
+                        "is_official" = 1;
+                        muscles =                         (
+                                                        {
+                                id = 2;
+                                title = Rygg;
+                            }
+                        );
+                        "one_rep_max" = "<null>";
+                        title = "Marklyft, med raka ben";
+                    },
+                                        {
+                        description = Benpress;
+                        id = 113;
+                        "is_official" = 1;
+                        muscles =                         (
+                                                        {
+                                id = 9;
+                                title = "Framsida l\U00e5r";
+                            }
+                        );
+                        "one_rep_max" = "<null>";
+                        title = Benpress;
+                    },
+                                        {
+                        description = "Enbens vadpress, med vikt";
+                        id = 142;
+                        "is_official" = 1;
+                        muscles =                         (
+                                                        {
+                                id = 5;
+                                title = Vader;
+                            }
+                        );
+                        "one_rep_max" = "<null>";
+                        title = "Enbens vadpress, med vikt";
+                    },
+                                        {
+                        description = "Roman Chair, b\U00f6jda ben";
+                        id = 153;
+                        "is_official" = 1;
+                        muscles =                         (
+                                                        {
+                                id = 1;
+                                title = Mage;
+                            }
+                        );
+                        "one_rep_max" = "<null>";
+                        title = "Roman Chair, b\U00f6jda ben";
+                    },
+                                        {
+                        description = "Hip thrusters, med skivst\U00e5ng";
+                        id = 194;
+                        "is_official" = 1;
+                        muscles =                         (
+                                                        {
+                                id = 10;
+                                title = "\U00d6vrigt";
+                            }
+                        );
+                        "one_rep_max" = "<null>";
+                        title = "Hip thrusters, med skivst\U00e5ng";
+                    }
+                );
+                favourite = 1;
+                id = 13;
+                interval = 1;
+                note = "<null>";
+                score = "<null>";
+                title = "Fridas benpass 1";
+            },
+                        {
+                date = "1970-01-01";
+                exercises =                 (
+                                        {
+                        description = "Chins, med vikt";
+                        id = 31;
+                        "is_official" = 1;
+                        muscles =                         (
+                                                        {
+                                id = 2;
+                                title = Rygg;
+                            }
+                        );
+                        "one_rep_max" = "<null>";
+                        title = "Chins, med vikt";
+                    }
+                );
+                favourite = 0;
+                id = 17;
+                interval = 2;
+                note = "<null>";
+                score = "<null>";
+                title = "Jespers magpass";
+            },
+                        {
+                date = "2014-04-01";
+                exercises =                 (
+                                        {
+                        description = Hantelpress;
+                        id = 2;
+                        "is_official" = 1;
+                        muscles =                         (
+                                                        {
+                                id = 7;
+                                title = "Br\U00f6st";
+                            }
+                        );
+                        "one_rep_max" = "<null>";
+                        title = Hantelpress;
+                    },
+                                        {
+                        description = "B\U00e4nkpress, smithmaskin";
+                        id = 3;
+                        "is_official" = 1;
+                        muscles =                         (
+                                                        {
+                                id = 7;
+                                title = "Br\U00f6st";
+                            }
+                        );
+                        "one_rep_max" = "<null>";
+                        title = "B\U00e4nkpress, smithmaskin";
+                    },
+                                        {
+                        description = "Upp\U00e5tlutande flyes, hantlar";
+                        id = 14;
+                        "is_official" = 1;
+                        muscles =                         (
+                                                        {
+                                id = 7;
+                                title = "Br\U00f6st";
+                            }
+                        );
+                        "one_rep_max" = "<null>";
+                        title = "Upp\U00e5tlutande flyes, hantlar";
+                    },
+                                        {
+                        description = "Skivst\U00e5ngsrodd";
+                        id = 24;
+                        "is_official" = 1;
+                        muscles =                         (
+                                                        {
+                                id = 2;
+                                title = Rygg;
+                            }
+                        );
+                        "one_rep_max" = "<null>";
+                        title = "Skivst\U00e5ngsrodd";
+                    },
+                                        {
+                        description = Hantelrodd;
+                        id = 37;
+                        "is_official" = 1;
+                        muscles =                         (
+                                                        {
+                                id = 2;
+                                title = Rygg;
+                            }
+                        );
+                        "one_rep_max" = "<null>";
+                        title = Hantelrodd;
+                    }
+                );
+                favourite = 0;
+                id = 14;
+                interval = 5;
+                note = "<null>";
+                score = "<null>";
+                title = "Rasmus armar";
+            }
+        );
+    },
+        {
+        end = "2014-06-01";
+        id = 6;
+        "is_official" = 1;
+        start = "2013-03-01";
+        title = "Fridas benprogram";
+        workouts =         (
+                        {
+                date = "2014-04-01";
+                exercises =                 (
+                                        {
+                        description = "Marklyft, med raka ben";
+                        id = 23;
+                        "is_official" = 1;
+                        muscles =                         (
+                                                        {
+                                id = 2;
+                                title = Rygg;
+                            }
+                        );
+                        "one_rep_max" = "<null>";
+                        title = "Marklyft, med raka ben";
+                    },
+                                        {
+                        description = Benpress;
+                        id = 113;
+                        "is_official" = 1;
+                        muscles =                         (
+                                                        {
+                                id = 9;
+                                title = "Framsida l\U00e5r";
+                            }
+                        );
+                        "one_rep_max" = "<null>";
+                        title = Benpress;
+                    },
+                                        {
+                        description = "Enbens vadpress, med vikt";
+                        id = 142;
+                        "is_official" = 1;
+                        muscles =                         (
+                                                        {
+                                id = 5;
+                                title = Vader;
+                            }
+                        );
+                        "one_rep_max" = "<null>";
+                        title = "Enbens vadpress, med vikt";
+                    },
+                                        {
+                        description = "Roman Chair, b\U00f6jda ben";
+                        id = 153;
+                        "is_official" = 1;
+                        muscles =                         (
+                                                        {
+                                id = 1;
+                                title = Mage;
+                            }
+                        );
+                        "one_rep_max" = "<null>";
+                        title = "Roman Chair, b\U00f6jda ben";
+                    },
+                                        {
+                        description = "Hip thrusters, med skivst\U00e5ng";
+                        id = 194;
+                        "is_official" = 1;
+                        muscles =                         (
+                                                        {
+                                id = 10;
+                                title = "\U00d6vrigt";
+                            }
+                        );
+                        "one_rep_max" = "<null>";
+                        title = "Hip thrusters, med skivst\U00e5ng";
+                    }
+                );
+                favourite = 1;
+                id = 13;
+                interval = 2;
+                note = "<null>";
+                score = "<null>";
+                title = "Fridas benpass 1";
+            },
+                        {
+                date = "1970-01-01";
+                exercises =                 (
+                                        {
+                        description = "Marklyft, med raka ben";
+                        id = 23;
+                        "is_official" = 1;
+                        muscles =                         (
+                                                        {
+                                id = 2;
+                                title = Rygg;
+                            }
+                        );
+                        "one_rep_max" = "<null>";
+                        title = "Marklyft, med raka ben";
+                    },
+                                        {
+                        description = "Kn\U00e4b\U00f6j";
+                        id = 109;
+                        "is_official" = 1;
+                        muscles =                         (
+                                                        {
+                                id = 9;
+                                title = "Framsida l\U00e5r";
+                            }
+                        );
+                        "one_rep_max" = 80;
+                        title = "Kn\U00e4b\U00f6j";
+                    },
+                                        {
+                        description = "Raka marklyft, med skivst\U00e5ng";
+                        id = 133;
+                        "is_official" = 1;
+                        muscles =                         (
+                                                        {
+                                id = 3;
+                                title = "Baksida l\U00e5r";
+                            }
+                        );
+                        "one_rep_max" = "<null>";
+                        title = "Raka marklyft, med skivst\U00e5ng";
+                    },
+                                        {
+                        description = "Enbens vadpress, med vikt";
+                        id = 142;
+                        "is_official" = 1;
+                        muscles =                         (
+                                                        {
+                                id = 5;
+                                title = Vader;
+                            }
+                        );
+                        "one_rep_max" = "<null>";
+                        title = "Enbens vadpress, med vikt";
+                    },
+                                        {
+                        description = "Hjulet, kn\U00e4st\U00e5ende";
+                        id = 156;
+                        "is_official" = 1;
+                        muscles =                         (
+                                                        {
+                                id = 1;
+                                title = Mage;
+                            }
+                        );
+                        "one_rep_max" = "<null>";
+                        title = "Hjulet, kn\U00e4st\U00e5ende";
+                    }
+                );
+                favourite = 0;
+                id = 16;
+                interval = 6;
+                note = "<null>";
+                score = "<null>";
+                title = "Fridas benpass 2";
+            }
+        );
+    },
+        {
+        end = "<null>";
+        id = 9;
+        "is_official" = 1;
+        start = "<null>";
+        title = "Inte i vassen 2014";
+        workouts =         (
+                        {
+                date = "2014-04-01";
+                exercises =                 (
+                                        {
+                        description = "Marklyft, med raka ben";
+                        id = 23;
+                        "is_official" = 1;
+                        muscles =                         (
+                                                        {
+                                id = 2;
+                                title = Rygg;
+                            }
+                        );
+                        "one_rep_max" = "<null>";
+                        title = "Marklyft, med raka ben";
+                    },
+                                        {
+                        description = Benpress;
+                        id = 113;
+                        "is_official" = 1;
+                        muscles =                         (
+                                                        {
+                                id = 9;
+                                title = "Framsida l\U00e5r";
+                            }
+                        );
+                        "one_rep_max" = "<null>";
+                        title = Benpress;
+                    },
+                                        {
+                        description = "Enbens vadpress, med vikt";
+                        id = 142;
+                        "is_official" = 1;
+                        muscles =                         (
+                                                        {
+                                id = 5;
+                                title = Vader;
+                            }
+                        );
+                        "one_rep_max" = "<null>";
+                        title = "Enbens vadpress, med vikt";
+                    },
+                                        {
+                        description = "Roman Chair, b\U00f6jda ben";
+                        id = 153;
+                        "is_official" = 1;
+                        muscles =                         (
+                                                        {
+                                id = 1;
+                                title = Mage;
+                            }
+                        );
+                        "one_rep_max" = "<null>";
+                        title = "Roman Chair, b\U00f6jda ben";
+                    },
+                                        {
+                        description = "Hip thrusters, med skivst\U00e5ng";
+                        id = 194;
+                        "is_official" = 1;
+                        muscles =                         (
+                                                        {
+                                id = 10;
+                                title = "\U00d6vrigt";
+                            }
+                        );
+                        "one_rep_max" = "<null>";
+                        title = "Hip thrusters, med skivst\U00e5ng";
+                    }
+                );
+                favourite = 1;
+                id = 13;
+                interval = 5;
+                note = "<null>";
+                score = "<null>";
+                title = "Fridas benpass 1";
+            },
+                        {
+                date = "1970-01-01";
+                exercises =                 (
+                                        {
+                        description = "Chins, med vikt";
+                        id = 31;
+                        "is_official" = 1;
+                        muscles =                         (
+                                                        {
+                                id = 2;
+                                title = Rygg;
+                            }
+                        );
+                        "one_rep_max" = "<null>";
+                        title = "Chins, med vikt";
+                    }
+                );
+                favourite = 0;
+                id = 17;
+                interval = 3;
+                note = "<null>";
+                score = "<null>";
+                title = "Jespers magpass";
+            },
+                        {
+                date = "1970-01-01";
+                exercises =                 (
+                                        {
+                        description = "Chins, med vikt";
+                        id = 31;
+                        "is_official" = 1;
+                        muscles =                         (
+                                                        {
+                                id = 2;
+                                title = Rygg;
+                            }
+                        );
+                        "one_rep_max" = "<null>";
+                        title = "Chins, med vikt";
+                    }
+                );
+                favourite = 0;
+                id = 17;
+                interval = 3;
+                note = "<null>";
+                score = "<null>";
+                title = "Jespers magpass";
+            },
+                        {
+                date = "2014-04-01";
+                exercises =                 (
+                                        {
+                        description = Hantelpress;
+                        id = 2;
+                        "is_official" = 1;
+                        muscles =                         (
+                                                        {
+                                id = 7;
+                                title = "Br\U00f6st";
+                            }
+                        );
+                        "one_rep_max" = "<null>";
+                        title = Hantelpress;
+                    },
+                                        {
+                        description = "B\U00e4nkpress, smithmaskin";
+                        id = 3;
+                        "is_official" = 1;
+                        muscles =                         (
+                                                        {
+                                id = 7;
+                                title = "Br\U00f6st";
+                            }
+                        );
+                        "one_rep_max" = "<null>";
+                        title = "B\U00e4nkpress, smithmaskin";
+                    },
+                                        {
+                        description = "Upp\U00e5tlutande flyes, hantlar";
+                        id = 14;
+                        "is_official" = 1;
+                        muscles =                         (
+                                                        {
+                                id = 7;
+                                title = "Br\U00f6st";
+                            }
+                        );
+                        "one_rep_max" = "<null>";
+                        title = "Upp\U00e5tlutande flyes, hantlar";
+                    },
+                                        {
+                        description = "Skivst\U00e5ngsrodd";
+                        id = 24;
+                        "is_official" = 1;
+                        muscles =                         (
+                                                        {
+                                id = 2;
+                                title = Rygg;
+                            }
+                        );
+                        "one_rep_max" = "<null>";
+                        title = "Skivst\U00e5ngsrodd";
+                    },
+                                        {
+                        description = Hantelrodd;
+                        id = 37;
+                        "is_official" = 1;
+                        muscles =                         (
+                                                        {
+                                id = 2;
+                                title = Rygg;
+                            }
+                        );
+                        "one_rep_max" = "<null>";
+                        title = Hantelrodd;
+                    }
+                );
+                favourite = 0;
+                id = 14;
+                interval = 4;
+                note = "<null>";
+                score = "<null>";
+                title = "Rasmus armar";
+            }
+        );
+    },
+        {
+        end = "<null>";
+        id = 10;
+        "is_official" = 0;
+        start = "2014-04-10";
+        title = "Mitt basta traningsprogram nummer 3";
+        workouts =         (
+        );
+    },
+        {
+        end = "2014-04-14";
+        id = 11;
+        "is_official" = 0;
+        start = "2014-04-10";
+        title = "Mitt basta traningsprogram nummer 3";
+        workouts =         (
+        );
+    },
+        {
+        end = "2014-04-14";
+        id = 12;
+        "is_official" = 0;
+        start = "2014-04-10";
+        title = "Mitt basta traningsprogram nummer 3";
+        workouts =         (
+        );
+    },
+        {
+        end = "2014-04-12";
+        id = 13;
+        "is_official" = 0;
+        start = "2014-04-10";
+        title = "Mitt basta traningsprogram nummer 300";
+        workouts =         (
+                        {
+                date = "2014-04-01";
+                exercises =                 (
+                                        {
+                        description = "Marklyft, med raka ben";
+                        id = 23;
+                        "is_official" = 1;
+                        muscles =                         (
+                                                        {
+                                id = 2;
+                                title = Rygg;
+                            }
+                        );
+                        "one_rep_max" = "<null>";
+                        title = "Marklyft, med raka ben";
+                    },
+                                        {
+                        description = Benpress;
+                        id = 113;
+                        "is_official" = 1;
+                        muscles =                         (
+                                                        {
+                                id = 9;
+                                title = "Framsida l\U00e5r";
+                            }
+                        );
+                        "one_rep_max" = "<null>";
+                        title = Benpress;
+                    },
+                                        {
+                        description = "Enbens vadpress, med vikt";
+                        id = 142;
+                        "is_official" = 1;
+                        muscles =                         (
+                                                        {
+                                id = 5;
+                                title = Vader;
+                            }
+                        );
+                        "one_rep_max" = "<null>";
+                        title = "Enbens vadpress, med vikt";
+                    },
+                                        {
+                        description = "Roman Chair, b\U00f6jda ben";
+                        id = 153;
+                        "is_official" = 1;
+                        muscles =                         (
+                                                        {
+                                id = 1;
+                                title = Mage;
+                            }
+                        );
+                        "one_rep_max" = "<null>";
+                        title = "Roman Chair, b\U00f6jda ben";
+                    },
+                                        {
+                        description = "Hip thrusters, med skivst\U00e5ng";
+                        id = 194;
+                        "is_official" = 1;
+                        muscles =                         (
+                                                        {
+                                id = 10;
+                                title = "\U00d6vrigt";
+                            }
+                        );
+                        "one_rep_max" = "<null>";
+                        title = "Hip thrusters, med skivst\U00e5ng";
+                    }
+                );
+                favourite = 1;
+                id = 13;
+                interval = 1;
+                note = "<null>";
+                score = "<null>";
+                title = "Fridas benpass 1";
+            },
+                        {
+                date = "2014-03-18";
+                exercises =                 (
+                                        {
+                        description = "Marklyft 1 klassiskt vis.";
+                        id = 213;
+                        "is_logged" = 1;
+                        "is_official" = 0;
+                        muscles =                         (
+                                                        {
+                                id = 2;
+                                title = Rygg;
+                            }
+                        );
+                        "one_rep_max" = "<null>";
+                        title = "Marklyft 1";
+                    },
+                                        {
+                        description = "Marklyft 2 klassiskt vis.";
+                        id = 214;
+                        "is_logged" = 1;
+                        "is_official" = 0;
+                        muscles =                         (
+                                                        {
+                                id = 2;
+                                title = Rygg;
+                            }
+                        );
+                        "one_rep_max" = "<null>";
+                        title = "Marklyft 2";
+                    },
+                                        {
+                        description = "Marklyft 3 klassiskt vis.";
+                        id = 215;
+                        "is_logged" = 1;
+                        "is_official" = 0;
+                        muscles =                         (
+                                                        {
+                                id = 2;
+                                title = Rygg;
+                            }
+                        );
+                        "one_rep_max" = "86.40000000000001";
+                        title = "Marklyft 3";
+                    },
+                                        {
+                        description = "Marklyft 4 klassiskt vis.";
+                        id = 216;
+                        "is_logged" = 1;
+                        "is_official" = 0;
+                        muscles =                         (
+                                                        {
+                                id = 2;
+                                title = Rygg;
+                            }
+                        );
+                        "one_rep_max" = 425;
+                        title = "Marklyft 4";
+                    },
+                                        {
+                        description = "Marklyft 5.5 klassiskt vis.";
+                        id = 217;
+                        "is_logged" = 0;
+                        "is_official" = 0;
+                        muscles =                         (
+                                                        {
+                                id = 2;
+                                title = Rygg;
+                            }
+                        );
+                        "one_rep_max" = "99.90000000000001";
+                        title = "Marklyft 5.5";
+                    }
+                );
+                favourite = 1;
+                id = 5;
+                interval = 2;
+                note = "This is workout number 5 and it is not empty.";
+                score = 5;
+                title = "Testpass nummer FEM.";
+            },
+                        {
+                date = "2014-04-01";
+                exercises =                 (
+                );
+                favourite = 0;
+                id = 15;
+                interval = 3;
+                note = "This is workout number 15 and it is empty. It belongs to the workout plan ID 13 and there the interval is set to 3 and that means that the third day in workout plan 13 is a rest-day.";
+                score = 5;
+                title = "Testpass nummer FEMTON.";
+            }
+        );
+    },
+        {
+        end = "2014-04-15";
+        id = 15;
+        "is_official" = 0;
+        start = "2014-04-11";
+        title = "Mitt basta traningsprogram nummer 500";
+        workouts =         (
+        );
+    },
+        {
+        end = "2014-05-15";
+        id = 16;
+        "is_official" = 0;
+        start = "2014-05-11";
+        title = "Mitt basta traningsprogram nummer 500";
+        workouts =         (
+        );
+    },
+        {
+        end = "<null>";
+        id = 5;
+        "is_official" = 0;
+        start = "2014-04-26";
+        title = "Mitt basta traningsprogram nummer TVATVA (22)";
+        workouts =         (
+                        {
+                date = "2014-03-18";
+                exercises =                 (
+                                        {
+                        description = "Marklyft 1 klassiskt vis.";
+                        id = 213;
+                        "is_logged" = 1;
+                        "is_official" = 0;
+                        muscles =                         (
+                                                        {
+                                id = 2;
+                                title = Rygg;
+                            }
+                        );
+                        "one_rep_max" = "<null>";
+                        title = "Marklyft 1";
+                    },
+                                        {
+                        description = "Marklyft 2 klassiskt vis.";
+                        id = 214;
+                        "is_logged" = 1;
+                        "is_official" = 0;
+                        muscles =                         (
+                                                        {
+                                id = 2;
+                                title = Rygg;
+                            }
+                        );
+                        "one_rep_max" = "<null>";
+                        title = "Marklyft 2";
+                    },
+                                        {
+                        description = "Marklyft 3 klassiskt vis.";
+                        id = 215;
+                        "is_logged" = 1;
+                        "is_official" = 0;
+                        muscles =                         (
+                                                        {
+                                id = 2;
+                                title = Rygg;
+                            }
+                        );
+                        "one_rep_max" = "86.40000000000001";
+                        title = "Marklyft 3";
+                    },
+                                        {
+                        description = "Marklyft 4 klassiskt vis.";
+                        id = 216;
+                        "is_logged" = 1;
+                        "is_official" = 0;
+                        muscles =                         (
+                                                        {
+                                id = 2;
+                                title = Rygg;
+                            }
+                        );
+                        "one_rep_max" = 425;
+                        title = "Marklyft 4";
+                    },
+                                        {
+                        description = "Marklyft 5.5 klassiskt vis.";
+                        id = 217;
+                        "is_logged" = 0;
+                        "is_official" = 0;
+                        muscles =                         (
+                                                        {
+                                id = 2;
+                                title = Rygg;
+                            }
+                        );
+                        "one_rep_max" = "99.90000000000001";
+                        title = "Marklyft 5.5";
+                    }
+                );
+                favourite = 1;
+                id = 5;
+                interval = 4;
+                note = "This is workout number 5 and it is not empty.";
+                score = 5;
+                title = "Testpass nummer FEM.";
+            },
+                        {
+                date = "2014-04-01";
+                exercises =                 (
+                );
+                favourite = 0;
+                id = 15;
+                interval = 2;
+                note = "This is workout number 15 and it is empty. It belongs to the workout plan ID 13 and there the interval is set to 3 and that means that the third day in workout plan 13 is a rest-day.";
+                score = 5;
+                title = "Testpass nummer FEMTON.";
+            }
+        );
+    },
+        {
+        end = "2020-03-03";
+        id = 2;
+        "is_official" = 0;
+        start = "2020-02-02";
+        title = "Mitt b\U00e4sta tr\U00e4ningsprogram nummer 2";
+        workouts =         (
+        );
+    },
+        {
+        end = "2014-04-11";
+        id = 17;
+        "is_official" = 0;
+        start = "2014-04-11";
+        title = "POST Workout Plan";
+        workouts =         (
+                        {
+                date = "2014-03-18";
+                exercises =                 (
+                );
+                favourite = 1;
+                id = 3;
+                interval = 2;
+                note = "Correction it is not test workout seven it is test workout number four. No actually it is test workout number three.";
+                score = 3;
+                title = "Testpass nummer TRE.";
+            },
+                        {
+                date = "2014-03-05";
+                exercises =                 (
+                                        {
+                        description = "B\U00e4nkpress, smithmaskin";
+                        id = 3;
+                        "is_official" = 1;
+                        muscles =                         (
+                                                        {
+                                id = 7;
+                                title = "Br\U00f6st";
+                            }
+                        );
+                        "one_rep_max" = "<null>";
+                        title = "B\U00e4nkpress, smithmaskin";
+                    }
+                );
+                favourite = 1;
+                id = 1;
+                interval = 1;
+                note = "This is test workout one. It contains one exercise.";
+                score = 1;
+                title = "Testtr\U00e4ningspass";
+            }
+        );
+    },
+        {
+        end = "2014-04-11";
+        id = 18;
+        "is_official" = 0;
+        start = "2014-04-11";
+        title = "POST Workout Plan";
+        workouts =         (
+                        {
+                date = "2014-03-18";
+                exercises =                 (
+                );
+                favourite = 1;
+                id = 3;
+                interval = 2;
+                note = "Correction it is not test workout seven it is test workout number four. No actually it is test workout number three.";
+                score = 3;
+                title = "Testpass nummer TRE.";
+            },
+                        {
+                date = "2014-03-05";
+                exercises =                 (
+                                        {
+                        description = "B\U00e4nkpress, smithmaskin";
+                        id = 3;
+                        "is_official" = 1;
+                        muscles =                         (
+                                                        {
+                                id = 7;
+                                title = "Br\U00f6st";
+                            }
+                        );
+                        "one_rep_max" = "<null>";
+                        title = "B\U00e4nkpress, smithmaskin";
+                    }
+                );
+                favourite = 1;
+                id = 1;
+                interval = 1;
+                note = "This is test workout one. It contains one exercise.";
+                score = 1;
+                title = "Testtr\U00e4ningspass";
+            }
+        );
+    },
+        {
+        end = "2014-04-11";
+        id = 19;
+        "is_official" = 0;
+        start = "2014-04-11";
+        title = "POST Workout Plan";
+        workouts =         (
+                        {
+                date = "2014-03-18";
+                exercises =                 (
+                );
+                favourite = 1;
+                id = 3;
+                interval = 2;
+                note = "Correction it is not test workout seven it is test workout number four. No actually it is test workout number three.";
+                score = 3;
+                title = "Testpass nummer TRE.";
+            },
+                        {
+                date = "2014-03-05";
+                exercises =                 (
+                                        {
+                        description = "B\U00e4nkpress, smithmaskin";
+                        id = 3;
+                        "is_official" = 1;
+                        muscles =                         (
+                                                        {
+                                id = 7;
+                                title = "Br\U00f6st";
+                            }
+                        );
+                        "one_rep_max" = "<null>";
+                        title = "B\U00e4nkpress, smithmaskin";
+                    }
+                );
+                favourite = 1;
+                id = 1;
+                interval = 1;
+                note = "This is test workout one. It contains one exercise.";
+                score = 1;
+                title = "Testtr\U00e4ningspass";
+            }
+        );
+    },
+        {
+        end = "2014-04-11";
+        id = 20;
+        "is_official" = 0;
+        start = "2014-04-11";
+        title = "POST Workout Plan";
+        workouts =         (
+                        {
+                date = "2014-03-18";
+                exercises =                 (
+                );
+                favourite = 1;
+                id = 3;
+                interval = 2;
+                note = "Correction it is not test workout seven it is test workout number four. No actually it is test workout number three.";
+                score = 3;
+                title = "Testpass nummer TRE.";
+            },
+                        {
+                date = "2014-03-05";
+                exercises =                 (
+                                        {
+                        description = "B\U00e4nkpress, smithmaskin";
+                        id = 3;
+                        "is_official" = 1;
+                        muscles =                         (
+                                                        {
+                                id = 7;
+                                title = "Br\U00f6st";
+                            }
+                        );
+                        "one_rep_max" = "<null>";
+                        title = "B\U00e4nkpress, smithmaskin";
+                    }
+                );
+                favourite = 1;
+                id = 1;
+                interval = 1;
+                note = "This is test workout one. It contains one exercise.";
+                score = 1;
+                title = "Testtr\U00e4ningspass";
+            }
+        );
+    },
+        {
+        end = "2014-04-11";
+        id = 21;
+        "is_official" = 0;
+        start = "2014-04-11";
+        title = "POST Workout Plan";
+        workouts =         (
+                        {
+                date = "2014-03-18";
+                exercises =                 (
+                );
+                favourite = 1;
+                id = 3;
+                interval = 2;
+                note = "Correction it is not test workout seven it is test workout number four. No actually it is test workout number three.";
+                score = 3;
+                title = "Testpass nummer TRE.";
+            },
+                        {
+                date = "2014-03-05";
+                exercises =                 (
+                                        {
+                        description = "B\U00e4nkpress, smithmaskin";
+                        id = 3;
+                        "is_official" = 1;
+                        muscles =                         (
+                                                        {
+                                id = 7;
+                                title = "Br\U00f6st";
+                            }
+                        );
+                        "one_rep_max" = "<null>";
+                        title = "B\U00e4nkpress, smithmaskin";
+                    }
+                );
+                favourite = 1;
+                id = 1;
+                interval = 1;
+                note = "This is test workout one. It contains one exercise.";
+                score = 1;
+                title = "Testtr\U00e4ningspass";
+            }
+        );
+    },
+        {
+        end = "2014-04-11";
+        id = 22;
+        "is_official" = 0;
+        start = "2014-04-11";
+        title = "POST Workout Plan";
+        workouts =         (
+                        {
+                date = "2014-03-18";
+                exercises =                 (
+                );
+                favourite = 1;
+                id = 3;
+                interval = 2;
+                note = "Correction it is not test workout seven it is test workout number four. No actually it is test workout number three.";
+                score = 3;
+                title = "Testpass nummer TRE.";
+            },
+                        {
+                date = "2014-03-05";
+                exercises =                 (
+                                        {
+                        description = "B\U00e4nkpress, smithmaskin";
+                        id = 3;
+                        "is_official" = 1;
+                        muscles =                         (
+                                                        {
+                                id = 7;
+                                title = "Br\U00f6st";
+                            }
+                        );
+                        "one_rep_max" = "<null>";
+                        title = "B\U00e4nkpress, smithmaskin";
+                    }
+                );
+                favourite = 1;
+                id = 1;
+                interval = 1;
+                note = "This is test workout one. It contains one exercise.";
+                score = 1;
+                title = "Testtr\U00e4ningspass";
+            }
+        );
+    },
+        {
+        end = "2014-04-11";
+        id = 23;
+        "is_official" = 0;
+        start = "2014-04-11";
+        title = "POST Workout Plan";
+        workouts =         (
+                        {
+                date = "2014-03-18";
+                exercises =                 (
+                );
+                favourite = 1;
+                id = 3;
+                interval = 2;
+                note = "Correction it is not test workout seven it is test workout number four. No actually it is test workout number three.";
+                score = 3;
+                title = "Testpass nummer TRE.";
+            },
+                        {
+                date = "2014-03-05";
+                exercises =                 (
+                                        {
+                        description = "B\U00e4nkpress, smithmaskin";
+                        id = 3;
+                        "is_official" = 1;
+                        muscles =                         (
+                                                        {
+                                id = 7;
+                                title = "Br\U00f6st";
+                            }
+                        );
+                        "one_rep_max" = "<null>";
+                        title = "B\U00e4nkpress, smithmaskin";
+                    }
+                );
+                favourite = 1;
+                id = 1;
+                interval = 1;
+                note = "This is test workout one. It contains one exercise.";
+                score = 1;
+                title = "Testtr\U00e4ningspass";
+            }
+        );
+    },
+        {
+        end = "2014-04-11";
+        id = 24;
+        "is_official" = 0;
+        start = "2014-04-11";
+        title = "POST Workout Plan";
+        workouts =         (
+                        {
+                date = "2014-03-18";
+                exercises =                 (
+                );
+                favourite = 1;
+                id = 3;
+                interval = 2;
+                note = "Correction it is not test workout seven it is test workout number four. No actually it is test workout number three.";
+                score = 3;
+                title = "Testpass nummer TRE.";
+            },
+                        {
+                date = "2014-03-05";
+                exercises =                 (
+                                        {
+                        description = "B\U00e4nkpress, smithmaskin";
+                        id = 3;
+                        "is_official" = 1;
+                        muscles =                         (
+                                                        {
+                                id = 7;
+                                title = "Br\U00f6st";
+                            }
+                        );
+                        "one_rep_max" = "<null>";
+                        title = "B\U00e4nkpress, smithmaskin";
+                    }
+                );
+                favourite = 1;
+                id = 1;
+                interval = 1;
+                note = "This is test workout one. It contains one exercise.";
+                score = 1;
+                title = "Testtr\U00e4ningspass";
+            }
+        );
+    },
+        {
+        end = "2014-04-11";
+        id = 25;
+        "is_official" = 0;
+        start = "2014-04-11";
+        title = "POST Workout Plan";
+        workouts =         (
+                        {
+                date = "2014-03-18";
+                exercises =                 (
+                );
+                favourite = 1;
+                id = 3;
+                interval = 2;
+                note = "Correction it is not test workout seven it is test workout number four. No actually it is test workout number three.";
+                score = 3;
+                title = "Testpass nummer TRE.";
+            },
+                        {
+                date = "2014-03-05";
+                exercises =                 (
+                                        {
+                        description = "B\U00e4nkpress, smithmaskin";
+                        id = 3;
+                        "is_official" = 1;
+                        muscles =                         (
+                                                        {
+                                id = 7;
+                                title = "Br\U00f6st";
+                            }
+                        );
+                        "one_rep_max" = "<null>";
+                        title = "B\U00e4nkpress, smithmaskin";
+                    }
+                );
+                favourite = 1;
+                id = 1;
+                interval = 1;
+                note = "This is test workout one. It contains one exercise.";
+                score = 1;
+                title = "Testtr\U00e4ningspass";
+            }
+        );
+    },
+        {
+        end = "2014-04-11";
+        id = 26;
+        "is_official" = 0;
+        start = "2014-04-11";
+        title = "POST Workout Plan";
+        workouts =         (
+                        {
+                date = "2014-03-18";
+                exercises =                 (
+                );
+                favourite = 1;
+                id = 3;
+                interval = 2;
+                note = "Correction it is not test workout seven it is test workout number four. No actually it is test workout number three.";
+                score = 3;
+                title = "Testpass nummer TRE.";
+            },
+                        {
+                date = "2014-03-05";
+                exercises =                 (
+                                        {
+                        description = "B\U00e4nkpress, smithmaskin";
+                        id = 3;
+                        "is_official" = 1;
+                        muscles =                         (
+                                                        {
+                                id = 7;
+                                title = "Br\U00f6st";
+                            }
+                        );
+                        "one_rep_max" = "<null>";
+                        title = "B\U00e4nkpress, smithmaskin";
+                    }
+                );
+                favourite = 1;
+                id = 1;
+                interval = 1;
+                note = "This is test workout one. It contains one exercise.";
+                score = 1;
+                title = "Testtr\U00e4ningspass";
+            }
+        );
+    },
+        {
+        end = "2014-04-11";
+        id = 27;
+        "is_official" = 0;
+        start = "2014-04-11";
+        title = "POST Workout Plan";
+        workouts =         (
+                        {
+                date = "2014-03-18";
+                exercises =                 (
+                );
+                favourite = 1;
+                id = 3;
+                interval = 2;
+                note = "Correction it is not test workout seven it is test workout number four. No actually it is test workout number three.";
+                score = 3;
+                title = "Testpass nummer TRE.";
+            },
+                        {
+                date = "2014-03-05";
+                exercises =                 (
+                                        {
+                        description = "B\U00e4nkpress, smithmaskin";
+                        id = 3;
+                        "is_official" = 1;
+                        muscles =                         (
+                                                        {
+                                id = 7;
+                                title = "Br\U00f6st";
+                            }
+                        );
+                        "one_rep_max" = "<null>";
+                        title = "B\U00e4nkpress, smithmaskin";
+                    }
+                );
+                favourite = 1;
+                id = 1;
+                interval = 1;
+                note = "This is test workout one. It contains one exercise.";
+                score = 1;
+                title = "Testtr\U00e4ningspass";
+            }
+        );
+    },
+        {
+        end = "2014-04-11";
+        id = 28;
+        "is_official" = 0;
+        start = "2014-04-11";
+        title = "POST Workout Plan";
+        workouts =         (
+                        {
+                date = "2014-03-18";
+                exercises =                 (
+                );
+                favourite = 1;
+                id = 3;
+                interval = 2;
+                note = "Correction it is not test workout seven it is test workout number four. No actually it is test workout number three.";
+                score = 3;
+                title = "Testpass nummer TRE.";
+            },
+                        {
+                date = "2014-03-05";
+                exercises =                 (
+                                        {
+                        description = "B\U00e4nkpress, smithmaskin";
+                        id = 3;
+                        "is_official" = 1;
+                        muscles =                         (
+                                                        {
+                                id = 7;
+                                title = "Br\U00f6st";
+                            }
+                        );
+                        "one_rep_max" = "<null>";
+                        title = "B\U00e4nkpress, smithmaskin";
+                    }
+                );
+                favourite = 1;
+                id = 1;
+                interval = 1;
+                note = "This is test workout one. It contains one exercise.";
+                score = 1;
+                title = "Testtr\U00e4ningspass";
+            }
+        );
+    },
+        {
+        end = "2014-04-15";
+        id = 29;
+        "is_official" = 0;
+        start = "2014-04-15";
+        title = "POST Workout Plan";
+        workouts =         (
+                        {
+                date = "2014-03-18";
+                exercises =                 (
+                );
+                favourite = 1;
+                id = 3;
+                interval = 2;
+                note = "Correction it is not test workout seven it is test workout number four. No actually it is test workout number three.";
+                score = 3;
+                title = "Testpass nummer TRE.";
+            },
+                        {
+                date = "2014-03-05";
+                exercises =                 (
+                                        {
+                        description = "B\U00e4nkpress, smithmaskin";
+                        id = 3;
+                        "is_official" = 1;
+                        muscles =                         (
+                                                        {
+                                id = 7;
+                                title = "Br\U00f6st";
+                            }
+                        );
+                        "one_rep_max" = "<null>";
+                        title = "B\U00e4nkpress, smithmaskin";
+                    }
+                );
+                favourite = 1;
+                id = 1;
+                interval = 1;
+                note = "This is test workout one. It contains one exercise.";
+                score = 1;
+                title = "Testtr\U00e4ningspass";
+            }
+        );
+    },
+        {
+        end = "2014-04-15";
+        id = 30;
+        "is_official" = 0;
+        start = "2014-04-15";
+        title = "POST Workout Plan";
+        workouts =         (
+                        {
+                date = "2014-03-18";
+                exercises =                 (
+                );
+                favourite = 1;
+                id = 3;
+                interval = 2;
+                note = "Correction it is not test workout seven it is test workout number four. No actually it is test workout number three.";
+                score = 3;
+                title = "Testpass nummer TRE.";
+            },
+                        {
+                date = "2014-03-05";
+                exercises =                 (
+                                        {
+                        description = "B\U00e4nkpress, smithmaskin";
+                        id = 3;
+                        "is_official" = 1;
+                        muscles =                         (
+                                                        {
+                                id = 7;
+                                title = "Br\U00f6st";
+                            }
+                        );
+                        "one_rep_max" = "<null>";
+                        title = "B\U00e4nkpress, smithmaskin";
+                    }
+                );
+                favourite = 1;
+                id = 1;
+                interval = 1;
+                note = "This is test workout one. It contains one exercise.";
+                score = 1;
+                title = "Testtr\U00e4ningspass";
+            }
+        );
+    },
+        {
+        end = "2014-04-15";
+        id = 31;
+        "is_official" = 0;
+        start = "2014-04-15";
+        title = "POST Workout Plan";
+        workouts =         (
+                        {
+                date = "2014-03-18";
+                exercises =                 (
+                );
+                favourite = 1;
+                id = 3;
+                interval = 2;
+                note = "Correction it is not test workout seven it is test workout number four. No actually it is test workout number three.";
+                score = 3;
+                title = "Testpass nummer TRE.";
+            },
+                        {
+                date = "2014-03-05";
+                exercises =                 (
+                                        {
+                        description = "B\U00e4nkpress, smithmaskin";
+                        id = 3;
+                        "is_official" = 1;
+                        muscles =                         (
+                                                        {
+                                id = 7;
+                                title = "Br\U00f6st";
+                            }
+                        );
+                        "one_rep_max" = "<null>";
+                        title = "B\U00e4nkpress, smithmaskin";
+                    }
+                );
+                favourite = 1;
+                id = 1;
+                interval = 1;
+                note = "This is test workout one. It contains one exercise.";
+                score = 1;
+                title = "Testtr\U00e4ningspass";
+            }
+        );
+    },
+        {
+        end = "2014-04-15";
+        id = 32;
+        "is_official" = 0;
+        start = "2014-04-15";
+        title = "POST Workout Plan";
+        workouts =         (
+                        {
+                date = "2014-03-18";
+                exercises =                 (
+                );
+                favourite = 1;
+                id = 3;
+                interval = 2;
+                note = "Correction it is not test workout seven it is test workout number four. No actually it is test workout number three.";
+                score = 3;
+                title = "Testpass nummer TRE.";
+            },
+                        {
+                date = "2014-03-05";
+                exercises =                 (
+                                        {
+                        description = "B\U00e4nkpress, smithmaskin";
+                        id = 3;
+                        "is_official" = 1;
+                        muscles =                         (
+                                                        {
+                                id = 7;
+                                title = "Br\U00f6st";
+                            }
+                        );
+                        "one_rep_max" = "<null>";
+                        title = "B\U00e4nkpress, smithmaskin";
+                    }
+                );
+                favourite = 1;
+                id = 1;
+                interval = 1;
+                note = "This is test workout one. It contains one exercise.";
+                score = 1;
+                title = "Testtr\U00e4ningspass";
+            }
+        );
+    },
+        {
+        end = "2014-04-15";
+        id = 33;
+        "is_official" = 0;
+        start = "2014-04-15";
+        title = "POST Workout Plan";
+        workouts =         (
+                        {
+                date = "2014-03-18";
+                exercises =                 (
+                );
+                favourite = 1;
+                id = 3;
+                interval = 2;
+                note = "Correction it is not test workout seven it is test workout number four. No actually it is test workout number three.";
+                score = 3;
+                title = "Testpass nummer TRE.";
+            },
+                        {
+                date = "2014-03-05";
+                exercises =                 (
+                                        {
+                        description = "B\U00e4nkpress, smithmaskin";
+                        id = 3;
+                        "is_official" = 1;
+                        muscles =                         (
+                                                        {
+                                id = 7;
+                                title = "Br\U00f6st";
+                            }
+                        );
+                        "one_rep_max" = "<null>";
+                        title = "B\U00e4nkpress, smithmaskin";
+                    }
+                );
+                favourite = 1;
+                id = 1;
+                interval = 1;
+                note = "This is test workout one. It contains one exercise.";
+                score = 1;
+                title = "Testtr\U00e4ningspass";
+            }
+        );
+    },
+        {
+        end = "2014-04-15";
+        id = 34;
+        "is_official" = 0;
+        start = "2014-04-15";
+        title = "POST Workout Plan";
+        workouts =         (
+                        {
+                date = "2014-03-18";
+                exercises =                 (
+                );
+                favourite = 1;
+                id = 3;
+                interval = 2;
+                note = "Correction it is not test workout seven it is test workout number four. No actually it is test workout number three.";
+                score = 3;
+                title = "Testpass nummer TRE.";
+            },
+                        {
+                date = "2014-03-05";
+                exercises =                 (
+                                        {
+                        description = "B\U00e4nkpress, smithmaskin";
+                        id = 3;
+                        "is_official" = 1;
+                        muscles =                         (
+                                                        {
+                                id = 7;
+                                title = "Br\U00f6st";
+                            }
+                        );
+                        "one_rep_max" = "<null>";
+                        title = "B\U00e4nkpress, smithmaskin";
+                    }
+                );
+                favourite = 1;
+                id = 1;
+                interval = 1;
+                note = "This is test workout one. It contains one exercise.";
+                score = 1;
+                title = "Testtr\U00e4ningspass";
+            }
+        );
+    },
+        {
+        end = "2014-04-15";
+        id = 35;
+        "is_official" = 0;
+        start = "2014-04-15";
+        title = "POST Workout Plan";
+        workouts =         (
+                        {
+                date = "2014-03-18";
+                exercises =                 (
+                );
+                favourite = 1;
+                id = 3;
+                interval = 2;
+                note = "Correction it is not test workout seven it is test workout number four. No actually it is test workout number three.";
+                score = 3;
+                title = "Testpass nummer TRE.";
+            },
+                        {
+                date = "2014-03-05";
+                exercises =                 (
+                                        {
+                        description = "B\U00e4nkpress, smithmaskin";
+                        id = 3;
+                        "is_official" = 1;
+                        muscles =                         (
+                                                        {
+                                id = 7;
+                                title = "Br\U00f6st";
+                            }
+                        );
+                        "one_rep_max" = "<null>";
+                        title = "B\U00e4nkpress, smithmaskin";
+                    }
+                );
+                favourite = 1;
+                id = 1;
+                interval = 1;
+                note = "This is test workout one. It contains one exercise.";
+                score = 1;
+                title = "Testtr\U00e4ningspass";
+            }
+        );
+    },
+        {
+        end = "2014-07-01";
+        id = 7;
+        "is_official" = 1;
+        start = "2014-03-27";
+        title = "Rasmus armar";
+        workouts =         (
+                        {
+                date = "2014-04-01";
+                exercises =                 (
+                                        {
+                        description = Hantelpress;
+                        id = 2;
+                        "is_official" = 1;
+                        muscles =                         (
+                                                        {
+                                id = 7;
+                                title = "Br\U00f6st";
+                            }
+                        );
+                        "one_rep_max" = "<null>";
+                        title = Hantelpress;
+                    },
+                                        {
+                        description = "B\U00e4nkpress, smithmaskin";
+                        id = 3;
+                        "is_official" = 1;
+                        muscles =                         (
+                                                        {
+                                id = 7;
+                                title = "Br\U00f6st";
+                            }
+                        );
+                        "one_rep_max" = "<null>";
+                        title = "B\U00e4nkpress, smithmaskin";
+                    },
+                                        {
+                        description = "Upp\U00e5tlutande flyes, hantlar";
+                        id = 14;
+                        "is_official" = 1;
+                        muscles =                         (
+                                                        {
+                                id = 7;
+                                title = "Br\U00f6st";
+                            }
+                        );
+                        "one_rep_max" = "<null>";
+                        title = "Upp\U00e5tlutande flyes, hantlar";
+                    },
+                                        {
+                        description = "Skivst\U00e5ngsrodd";
+                        id = 24;
+                        "is_official" = 1;
+                        muscles =                         (
+                                                        {
+                                id = 2;
+                                title = Rygg;
+                            }
+                        );
+                        "one_rep_max" = "<null>";
+                        title = "Skivst\U00e5ngsrodd";
+                    },
+                                        {
+                        description = Hantelrodd;
+                        id = 37;
+                        "is_official" = 1;
+                        muscles =                         (
+                                                        {
+                                id = 2;
+                                title = Rygg;
+                            }
+                        );
+                        "one_rep_max" = "<null>";
+                        title = Hantelrodd;
+                    }
+                );
+                favourite = 0;
+                id = 14;
+                interval = 1;
+                note = "<null>";
+                score = "<null>";
+                title = "Rasmus armar";
+            }
+        );
+    },
+        {
+        end = "<null>";
+        id = 3;
+        "is_official" = 1;
+        start = "<null>";
+        title = Testprogram;
+        workouts =         (
+                        {
+                date = "2014-03-20";
+                exercises =                 (
+                                        {
+                        description = "Milit\U00e4rpress";
+                        id = 83;
+                        "is_official" = 1;
+                        muscles =                         (
+                                                        {
+                                id = 11;
+                                title = Axlar;
+                            }
+                        );
+                        "one_rep_max" = "166.7";
+                        title = "Milit\U00e4rpress";
+                    }
+                );
+                favourite = 0;
+                id = 8;
+                note = "<null>";
+                score = "<null>";
+                title = "3-split, l\U00e5gvolym";
+            },
+                        {
+                date = "2014-03-05";
+                exercises =                 (
+                                        {
+                        description = "B\U00e4nkpress, smithmaskin";
+                        id = 3;
+                        "is_official" = 1;
+                        muscles =                         (
+                                                        {
+                                id = 7;
+                                title = "Br\U00f6st";
+                            }
+                        );
+                        "one_rep_max" = "<null>";
+                        title = "B\U00e4nkpress, smithmaskin";
+                    }
+                );
+                favourite = 1;
+                id = 1;
+                note = "This is test workout one. It contains one exercise.";
+                score = 1;
+                title = "Testtr\U00e4ningspass";
+            }
+        );
+    }
+)
