@@ -1,0 +1,10 @@
+Git commands:
+
+To clone => git clone "repo url"
+To know the status of the repo => git status
+To add new files to the repo => git add "file name" / "folder name" / "multiple file names with spaces"
+To commit changes to the repo => git commit -m "Commit message" / git commit -m "Commit message" "file names"
+To change config info => git config
+To push the changes to git server => git push "root name" "branch name"
+To pull the changes from the git server => git pull "origin" "branch name"
+To remove the file from repo => git rm "file name" / "folder name" / "multiple file names with spaces"
